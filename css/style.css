@@ -1,0 +1,14 @@
+.social-links .link {
+    color: plum;
+    text-decoration: none;
+    
+}
+
+.link:hover {
+    color: orchid;
+    font-weight: bolder;
+}
+
+.social-links .link:active {
+    color: firebrick;
+}
